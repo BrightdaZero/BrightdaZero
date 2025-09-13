@@ -32,7 +32,6 @@ for r in range(M):
                 if valid(rr,cc) and m[rr][cc] == 1:
                     djs.union(idx(r,c), idx(rr,cc))
 
-# ...existing code...
 from collections import defaultdict
 
 counter = defaultdict(int)
@@ -46,5 +45,5 @@ for r in range(M):
         if counter[s] > maxCount:
             maxCount = counter[s]
 
-print("ex1: ",maxCount)
+print("Ans: ",maxCount)
         
