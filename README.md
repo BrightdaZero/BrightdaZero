@@ -1,5 +1,4 @@
 # Hello, I'm Saw Lin Htet Oo
-<a href="[https://linkedin.com](https://www.linkedin.com/in/saw-lin-htet-oo-6b87bb315/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Computer Science student with a strong interest in cybersecurity, currently focused on developing practical skills in Security Operations.
 
